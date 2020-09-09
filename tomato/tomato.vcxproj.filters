@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tomato.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tomatoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="login.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="singup.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mintable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chatroom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ranklist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="todolist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="music.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tomato.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tomatoDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="login.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="singup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mintable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chatroom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ranklist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="todolist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="music.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="tomato.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\tomato.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="tomato.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="QQ图片.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\jlu.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bk1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\mintable1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\list.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\zreo\Pictures\Saved Pictures\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\time.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\QQ图片20200515134346.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="flag.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="name.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="chat.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="todolist.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
